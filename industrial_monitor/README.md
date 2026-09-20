@@ -5,8 +5,8 @@ Sistem pemantauan suhu dan kelembaban berbasis **ESP8266**, menggunakan sensor *
 <!-- Ganti nama file di bawah ini sesuai file gambar kamu di folder images/ -->
 <table>
   <tr>
-    <td align="center"><img src="images/foto-alat.jpg" width="260" alt="Foto Alat"/></td>
-    <td align="center"><img src="images/wiring-diagram.jpg" width="260" alt="Wiring Diagram"/></td>
+    <td align="center"><img src="images/images1.webp" width="260" alt="Foto Alat"/></td>
+    <td align="center"><img src="images/circuit_iamges.png" width="260" alt="Wiring Diagram"/></td>
   </tr>
 </table>
 
@@ -115,8 +115,7 @@ Pastikan board **ESP8266** sudah terpasang di Arduino IDE (via Boards Manager).
 ```
 industrial-monitor/
 ├── industrial-monitor.ino  # Kode utama
-├── secrets.h                # Kredensial asli (JANGAN diupload)
-├── secrets.h.example         # Template kredensial (aman diupload)
+├── secrets.h.example         # Template kredensial
 ├── .gitignore
 ├── README.md
 └── images/
