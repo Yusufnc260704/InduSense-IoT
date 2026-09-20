@@ -6,7 +6,7 @@ Sistem pemantauan suhu dan kelembaban berbasis **ESP8266**, menggunakan sensor *
 <table>
   <tr>
     <td align="center"><img src="images/images1.webp" width="260" alt="Foto Alat"/></td>
-    <td align="center"><img src="images/circuit_iamge.png" width="260" alt="Wiring Diagram"/></td>
+    <td align="center"><img src="images/circuit_image.png" width="260" alt="Wiring Diagram"/></td>
   </tr>
 </table>
 
