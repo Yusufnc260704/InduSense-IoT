@@ -1,5 +1,5 @@
 # InduSense-IoT
-InduSense is an Industrial IoT monitoring system designed to monitor temperature and humidity in real time using ESP8266, DHT22, MQTT, InfluxDB, and Grafana.
+InduSense is an Industrial IoT monitoring system designed to monitor temperature and humidity in real time using ESP8266, DHT22, InfluxDB, and Grafana.
 # Industrial Monitoring System (ESP8266 + DHT22 + InfluxDB)
 
 Sistem pemantauan suhu dan kelembaban berbasis **ESP8266**, menggunakan sensor **DHT22**, ditampilkan lewat **LCD 16×2 I2C**, dan data dikirim otomatis ke **InfluxDB** (time-series database) lewat HTTP API untuk keperluan monitoring & dashboard industri.
